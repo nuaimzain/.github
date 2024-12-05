@@ -1,7 +1,8 @@
 # Multiple Currency Classifier
 
 ## About
-This application is designed to help visually impaired people recognize and convert currency. By using scanner technology, this application allows users to scan banknotes and obtain currency identification results and nominal amounts automatically.
+This project focuses on developing a mobile app designed to assist visually impaired individuals in independently identifying and classifying paper currency, addressing a critical issue that impacts their financial autonomy. Many visually impaired people struggle to recognize different banknote denominations during daily transactions, leading to dependence on others and limiting their ability to manage finances independently.
+
 
 ## Team Member :
 |      ID      | Name                   |     Learning Path   |    Profile                                          |
