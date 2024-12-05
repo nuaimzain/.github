@@ -22,4 +22,4 @@ This application is designed to help visually impaired people recognize and conv
 | Machine Learning	 | Github |
 
 ## Project Document
-* Project Plan : 
+* Project Plan : https://bit.ly/C242-PR591-PROJECTPLAN
