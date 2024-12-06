@@ -20,10 +20,10 @@ This project focuses on developing a mobile app designed to assist visually impa
 
 
 ## Repositories :
-| Learning Paths	   | Link   |
-|--------------------|:------:|
-| Mobile Development | Github |
-| Cloud Computing    | Github |
+| Learning Paths	   |                                        Link                                                   |
+|--------------------|:---------------------------------------------------------------------------------------------:|
+| Mobile Development | [Github](https://github.com/Currency-Clasification-Bangkit-2024/multiple-currency-classifier) |
+| Cloud Computing    | [Github](https://github.com/Currency-Clasification-Bangkit-2024/CC-API) |
 | Machine Learning	 | Github |
 
 ## Project Document
