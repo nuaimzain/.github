@@ -24,7 +24,7 @@ This project focuses on developing a mobile app designed to assist visually impa
 |--------------------|:---------------------------------------------------------------------------------------------:|
 | Mobile Development | [Github](https://github.com/Currency-Clasification-Bangkit-2024/multiple-currency-classifier) |
 | Cloud Computing    | [Github](https://github.com/Currency-Clasification-Bangkit-2024/CC-API) |
-| Machine Learning	 | Github |
+| Machine Learning	 | [Github](https://github.com/Currency-Clasification-Bangkit-2024/MCC-ML) |
 
 ## Project Document
 * Project Plan : https://bit.ly/C242-PR591-PROJECTPLAN
